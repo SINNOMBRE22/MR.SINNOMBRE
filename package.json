@@ -1,10 +1,10 @@
 {
-  "name": "NK-BOT",
-  "version": "5.5.0",
+  "name": "SinNombre",
+  "version": "4.14.116",
   "description": "Un bot simple para Whatsapp en español uwu",
-  "main": "nkbot.js",
+  "main": "SinNombre.js",
   "scripts": {
-    "start": "node nkbot.js",
+    "start": "node SinNombre.js",
     "type": "commonjs"
   },
   "directories": {
@@ -17,10 +17,10 @@
     "bot",
     "whatsapp"
   ],
-  "author": "Matt_Mdz",
+  "author": "Cristian Aguilar",
   "license": "GNU",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.3",
+    "@adiwajshing/baileys": "^4.14.116",
     "axios": "^0.24.0",
     "async": "^3.2.2",
     "chalk": "^4.1.2",
@@ -55,14 +55,4 @@
     "spinnies": "^0.5.1",
     "util": "^0.12.4",
     "ytdl-core": "^4.11.0"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NeKosmic/NK-BOT.git"
-  },
-  "bugs": {
-    "url": "https://github.com/NeKosmic/NK-BOT/issues"
-  },
-  "homepage": "https://github.com/NeKosmic/NK-BOT#readme"
 }
